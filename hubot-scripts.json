@@ -1,4 +1,5 @@
 ["redis-brain.coffee",
  "tweet.coffee",
  "shipit.coffee",
- "joinme-generator.coffee"]
+ "joinme-generator.coffee",
+ "github-status.coffee"]
