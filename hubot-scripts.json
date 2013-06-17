@@ -2,4 +2,5 @@
  "tweet.coffee",
  "shipit.coffee",
  "joinme-generator.coffee",
- "github-status.coffee"]
+ "github-status.coffee",
+ "github-pulls.coffee"]
