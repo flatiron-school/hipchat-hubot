@@ -3,4 +3,5 @@
  "shipit.coffee",
  "joinme-generator.coffee",
  "github-status.coffee",
- "github-pull-request-notifier.coffee"]
+ "github-pull-request-notifier.coffee",
+ "poop.coffee"]
