@@ -4,4 +4,5 @@
  "joinme-generator.coffee",
  "github-status.coffee",
  "github-pull-request-notifier.coffee",
+ "karma.coffee",
  "poop.coffee"]
