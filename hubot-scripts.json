@@ -5,4 +5,5 @@
  "github-status.coffee",
  "github-pull-request-notifier.coffee",
  "karma.coffee",
- "poop.coffee"]
+ "poop.coffee",
+ "darksky.coffee"]
